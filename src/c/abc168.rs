@@ -1,7 +1,6 @@
-// mod b;
 use std::f64::consts::PI;
 
-fn main() {
+pub fn answer() {
     proconio::input! {
         a:f64,
         b:f64,
