@@ -1,6 +1,4 @@
-// mod b;
-
-fn main() {
+pub fn answer() {
     proconio::input! {
         n: i32,
         m: i32,
